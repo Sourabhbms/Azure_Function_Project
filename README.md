@@ -1,1 +1,1 @@
-# Azure_Function_Project
+# Azure Function Project
